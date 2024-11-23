@@ -9,4 +9,5 @@ Cardiovascular diseases (CVD) are a leading cause of morbidity and mortality wor
 - Yazmina Yolanda Vecino Yepes  
 - Esteban David Perez Mendoza
   
-### Datset: https://www.kaggle.com/code/caleones/ml-for-early-detection-of-heart-disease 
+### Kaggle: https://www.kaggle.com/code/caleones/ml-for-early-detection-of-heart-disease 
+### Dataset: https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data 
